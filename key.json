@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shot-change-detection",
+  "private_key_id": "d9ef21accea89d14c5a91859fcb009bff34d5ae4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxdWojw+EpgWUZ\nCxDoCNDzQ88PWfnrK0R0v556Vr0KZ948tYxO9T87eLrUqgA3axy2YPNjiBnGzGX/\nFrxNfs20O3ioFfMJ26TS+eX+Ws2otrrXPTjofShzfW27nj7PkK3CsmjNTQKp7UQI\npWppj5WxqZlS0Iuit/Li+ludTRukftP4OWCvSU7F75OKlOgVXSRszZiTHFFCl/6Q\nlmwwB1aNrV8OZbdW5lnXtmk7UtbQ1AuI6HW3SNacYVL4GL4AtgOjSUK4gkzimZ83\nGWNHNJxXW+Cxf5uZTEwScGZeC2cWX/VrEaQKUS7GxI9/fyMKmeryjdIItNvQuBrE\nStgcc2VZAgMBAAECggEALMpbe2J96ul3eH40CrTq9HOpiBDoRSS7FxKkb/GDrmQw\nEjeqjeVVy+95jKLKAjLdYOUQmY8pHmXJ2rxE0/SM/BBEsHw1x0eyjvO3St9laE+S\n0i/oNLoeYyQF9eSHqwEz8l/wltz4rqYt1VbXCITOvjR1+BKeI/h07DhPtmDXeMmE\ncmUa9zuFAnnUR4FZ+8tHzbrTLOgc3eusA+Wmx5m8q4wqg/cCK0cwxrUBE+eCexZx\nGZAdqpf6Ty7+VPkZe/pjsXE9BY6+23+cDS+6Q4rg7Of/u2JkVei/lmTvw2+vwqMM\nQRahCfQnpPqcgs8aGBFFWMI8xWqcZIbChvHSmIyr5wKBgQDiQoWxXJLV/plIDc09\n/F7G3ngkBEszX7tVHETcULTdkGB2KC/4YlfRnGbhXmcZT3bTRbcCEhFOSpXl08WI\nV+2oCfQd4ELcnN4S/nGDtafacYfcAx+KOzRb+7Q8jHL7E0Y66h7he7j7XeYhYG9/\n4jeqs2t3p+0qRdtnSEo2jeE8qwKBgQDIyMSOXHp/Zw3iqWlOWjDc5Ova0D7ygXwl\nO27i/76dxaSJAawRPOsEah06g6McsrYWz39PIEAtbtDL3VokxAvFBJN/id8/VTGh\nbUk8qV+PQVEsIcGgZuP0CHUz0X7eHQK7h+AtxmgTcvyCJBzBQ53GG5d8AWjdq7c9\ndaLmEH1eCwKBgQDcV6o5Go1I52PA/ufkuLRX+WmIscHGazFVZm1NHS+2Ihc+mk51\nFtitIiIy0iuXQ4LVpyvdUVkXJJ2sLztMV0zze5YHzlFu5TmDx9UmTi8EFdIYGdaK\nWLPZ7FsPKDwFdTTMxRmDv2hbK4uk73RGVzic/ZPn+FqH83YCtCzJygwSdwKBgQCX\n6AWFq4PmReKkfQW2CNh1FyE2EF2/faWeSaPwTAs8NJ7yJPi4pf0s/teUQKm0eaT4\nBw7Ln5vOg8umoZakwEojSf4J/RaRRPRirFs/cOliaclu+S8UGyQVqhx6EuLISuyZ\nUwiRuU1egZ13HLlAotaIXrGyWSKsq1DcR9bx9sHS1wKBgEuLHi6op0HmasVFE8vd\nRaagAVuQ1GpTo5997UtP7dnA0byGL5opV6ydStTUTq63b54R5+lIamWx+BOLxhtB\nk9oU1p1e4f+PgGvPmAdkMS7XQW0mKNoCnm2jvVXC2/hXAKoCB7jJWHOG3yjbRsOI\nY5DEQ1Oi4NnaY1skERwfI5mm\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-video-intelligence-sa@shot-change-detection.iam.gserviceaccount.com",
+  "client_id": "116822557987583194654",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-video-intelligence-sa%40shot-change-detection.iam.gserviceaccount.com"
+}
